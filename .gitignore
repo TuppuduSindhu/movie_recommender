@@ -1,0 +1,23 @@
+# Ignore CSV files
+*.csv
+
+# Ignore Pickle files
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Node modules
+node_modules/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
