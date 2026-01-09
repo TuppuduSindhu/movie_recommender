@@ -9,7 +9,7 @@ This project was developed by following step-by-step guidance from YouTube tutor
 
 ---
 output: 
-![Description](screenshots/output.png)
+![Description](output.png)
 
 
 ## 🧾 Dataset Collection
