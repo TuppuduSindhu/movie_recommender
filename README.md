@@ -8,6 +8,9 @@ The system recommends movies based on similarity between movie descriptions and 
 This project was developed by following step-by-step guidance from YouTube tutorials and implemented using **Python, Machine Learning, and Streamlit**.
 
 ---
+output: 
+![Description](screenshots/output.png)
+
 
 ## 🧾 Dataset Collection
 
