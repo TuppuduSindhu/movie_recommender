@@ -150,7 +150,4 @@ python -m streamlit run app.py
 
 This project demonstrates a practical implementation of a **content-based movie recommendation system** using machine learning concepts and a user-friendly web interface. It helped in understanding data preprocessing, similarity algorithms, API integration, and frontend-backend connection.
 
----
 
-
-Just tell me 😊
